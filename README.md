@@ -14,7 +14,6 @@
   - Atualmente estou no quinto período do curso de Análise e Desenvolvimento de Sistemas.
 
   - Buscando minha primeira oportunidade como Dev.
-  - 
 </p>
 
 ### Main skills:
@@ -28,7 +27,6 @@
 <img align="left" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg">
 <img align="left" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg">
 <img align="left" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg">
-
 </div>
 
 <br clear="both">
