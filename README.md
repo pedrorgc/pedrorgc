@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=#0E27E8">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0E27E8">
 
 <div align="center">
   
@@ -63,4 +63,4 @@
 <a  href="https://www.linkedin.com/in/pedrorgc/" target=_blank><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=#0E27E8F&section=footer">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0E27E8F&section=footer">
