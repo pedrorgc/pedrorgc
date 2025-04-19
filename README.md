@@ -1,6 +1,62 @@
-Coding
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=#FFFFFF">
 
-[![card](https://github-readme-stats.vercel.app/api?username=pedrorgc&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrorgc&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  
+   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&duration=4000&pause=1000&color=3683FF&center=true&vCenter=true&width=800&height=60&lines=Eai%2C+tudo+tranquilo+?)](https://git.io/typing-svg)
+ 
+</div>
 
-![image](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![image](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![image](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<br clear="both">
+
+<p>
+  Olá 👋, Sou Pedro! Um entusiasta na Programação.
+
+  - Atualmente estou no quinto período do curso de Análise e Desenvolvimento de Sistemas.
+
+  - Buscando minha primeira oportunidade como Dev.
+  - 
+</p>
+
+### Main skills:
+<div align="left"> 
+<img align="left" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
+<img align="left" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
+<img align="left" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
+<img align="left" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">
+<img align="left" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg">
+<img align="left" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
+<img align="left" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg">
+<img align="left" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg">
+<img align="left" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg">
+
+</div>
+
+<br clear="both">
+<br clear="both">
+
+---
+
+<br clear="both">
+
+<div align="center">
+
+   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=pedrorgc&theme=transparent&card_width=900)](https://git.io/streak-stats)
+
+</div>
+
+<br clear="both">
+
+<div align="center">
+<p align="center"><b>Visitors Count</b></p> 
+<img align="center" src="https://visit-counter.vercel.app/counter.png?page=pedrorgc&s=40&c=21509c&bg=00000000&no=3&ff=digi&tb=Visits%3A+&ta=">
+</div>
+
+<br>
+
+<div align="center">
+<h3> Contato </h3>
+<a href="mailto:pedroricarthgc@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white"></a>
+<a  href="https://www.linkedin.com/in/pedrorgc/" target=_blank><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=21509c&section=footer">
