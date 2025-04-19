@@ -1,7 +1,8 @@
 <h1>
-  Olá 👋, Sou Pedro! Um entusiasta de Programação e Tecnologia.
+  Olá 👋, Sou Pedro!
 </h1>
 <p>
+  - Um entusiasta de Programação e Tecnologia.
   
   - Atualmente estou no quinto período do curso de **Análise e Desenvolvimento de Sistemas no IFNMG - Campus Almenara**.
 
