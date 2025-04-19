@@ -9,13 +9,12 @@
 <br clear="both">
 
 <p>
+  
   Olá 👋, sou Pedro! Um entusiasta de Programação e Tecnologia, na busca de me tornar um Dev FullStack.
   
   - Atualmente estou no quinto período do curso de **Análise e Desenvolvimento de Sistemas no IFNMG - Campus Almenara**.
 
   - Buscando minha primeira oportunidade como Dev.
-
-  - Um entusiasta de Programação e Tecnologia.
 
 </p>
 
