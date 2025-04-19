@@ -1,12 +1,21 @@
-<h1>
-  Olá 👋, Sou Pedro!
-</h1>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=21509c">
+
+<div align="center">
+  
+   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&duration=4000&pause=1000&color=3683FF&center=true&vCenter=true&width=800&height=60&lines=Eai%2C+tudo+tranquilo?)](https://git.io/typing-svg)
+ 
+</div>
+
+<br clear="both">
+
 <p>
-  - Um entusiasta de Programação e Tecnologia.
+  Olá 👋, sou Pedro! Um entusiasta de Programação e Tecnologia, na busca de me tornar um Dev FullStack.
   
   - Atualmente estou no quinto período do curso de **Análise e Desenvolvimento de Sistemas no IFNMG - Campus Almenara**.
 
   - Buscando minha primeira oportunidade como Dev.
+
+  - Um entusiasta de Programação e Tecnologia.
 
 </p>
 
@@ -31,7 +40,7 @@
 
 <br clear="both">
 
-### Currently Studying
+### Currently Studying:
 <div align="left">
 <img align="left" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">
 <img align="left" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg">
