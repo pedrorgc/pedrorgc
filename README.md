@@ -54,14 +54,6 @@
 <br clear="both">
 
 <div align="center">
-
-   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=pedrorgc&theme=transparent&card_width=900)](https://git.io/streak-stats)
-
-</div>
-
-<br clear="both">
-
-<div align="center">
 <h3> Contato </h3>
 <a href="mailto:pedroricarthgc@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white"></a>
 <a  href="https://www.linkedin.com/in/pedrorgc/" target=_blank><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
