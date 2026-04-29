@@ -1,10 +1,5 @@
 # Olá, eu sou Pedro Ricarth! 👋
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pedrorgc&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrorgc&layout=compact&theme=tokyonight" alt="Top Langs" />
-</div>
-
 ---
 
 ### 🚀 Sobre Mim
@@ -63,6 +58,13 @@ O **SportFlow** é uma plataforma centralizada para gestão de atletas e eventos
   <a href="https://www.linkedin.com/in/pedrorgc/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pedrorgc&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrorgc&layout=compact&theme=tokyonight" alt="Top Langs" />
 </div>
 
 <br />
