@@ -1,8 +1,8 @@
 # Olá, eu sou Pedro Ricarth Gonçalves Cabral! 👋
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=tokyonight" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pedrorgc&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrorgc&layout=compact&theme=tokyonight" alt="Top Langs" />
 </div>
 
 ---
@@ -57,10 +57,10 @@ O **SportFlow** é uma plataforma centralizada para gestão de atletas e eventos
 ### 📫 Como me encontrar
 
 <div align="left">
-  <a href="mailto:seu-email@dominio.com" target="_blank">
+  <a href="mailto:pedroricarthgc@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://www.linkedin.com/in/SEU_LINKEDIN" target="_blank">
+  <a href="https://www.linkedin.com/in/pedrorgc/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
