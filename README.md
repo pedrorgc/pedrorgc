@@ -1,62 +1,70 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=21509c">
+# Olá, eu sou Pedro Ricarth Gonçalves Cabral! 👋
 
 <div align="center">
-  
-   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&duration=4000&pause=1000&color=3683FF&center=true&vCenter=true&width=800&height=60&lines=Eai%2C+tudo+tranquilo?)](https://git.io/typing-svg)
- 
+  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=tokyonight" alt="Top Langs" />
 </div>
-
-<br clear="both">
-
-<p>
-  
-  Olá 👋, sou Pedro! Um entusiasta de Programação e Tecnologia, na busca de me tornar um Dev FullStack.
-  
-  - Atualmente estou no quinto período do curso de **Análise e Desenvolvimento de Sistemas no IFNMG - Campus Almenara**.
-
-  - Buscando minha primeira oportunidade como Dev.
-
-</p>
 
 ---
 
-### Main skills:
-<div align="left"> 
-<img align="left" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
-<img align="left" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
-<img align="left" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
-</div>
+### 🚀 Sobre Mim
 
-<br clear="both">
+Sou um desenvolvedor Full-Stack focado em criar soluções eficientes e seguras. Atualmente, estou cursando o último ano de Engenharia/TI e desenvolvendo o **SportFlow**, um sistema de gestão esportiva voltado para o setor público que utiliza tecnologia para trazer transparência e agilidade.
 
-### Tools:
-<div align="left">
-<img align="left" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
-<img align="left" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg">
-<img align="left" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg">
-<img align="left" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg">
-</div>
-
-<br clear="both">
-
-### Currently Studying:
-<div align="left">
-<img align="left" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">
-<img align="left" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg">
-<img align="left" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg">
-<img align="left" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg">
-<img align="left" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg">
-<img align="left" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg">  
-</div>
-
-<br clear="both">
+- 🎓 Graduando em Tecnologia (TCC em desenvolvimento: **SportFlow**)
+- 🐧 Entusiasta de Linux (Ubuntu) e infraestrutura.
+- 🏗️ Especialista em arquitetura MVC e sistemas escaláveis.
 
 ---
 
-<br clear="both">
+### 🛠️ Tecnologias e Ferramentas
 
-<div align="center">
-<h3> Contato </h3>
-<a href="mailto:pedroricarthgc@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white"></a>
-<a  href="https://www.linkedin.com/in/pedrorgc/" target=_blank><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+#### **Backend**
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.st/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+#### **Frontend**
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
+#### **Ferramentas e Outros**
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+---
+
+### 🏆 Projeto em Destaque: SportFlow
+
+O **SportFlow** é uma plataforma centralizada para gestão de atletas e eventos esportivos.
+
+**Diferenciais Estratégicos:**
+* 🏛️ **Foco em Gestão Pública:** Alinhado com as necessidades de secretarias de esportes e municípios.
+* ⚡ **Atualização em Tempo Real:** Dashboard dinâmico para acompanhamento de competições.
+* 🔍 **Auditoria:** Sistema completo de logs e rastreabilidade para garantir a integridade dos dados.
+
+---
+
+### 📫 Como me encontrar
+
+<div align="left">
+  <a href="mailto:seu-email@dominio.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/SEU_LINKEDIN" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 </div>
+
+<br />
+
+> *"Transformando ideias em código, um commit de cada vez."*
