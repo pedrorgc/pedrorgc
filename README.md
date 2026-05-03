@@ -63,7 +63,9 @@ O **SportFlow** é uma plataforma centralizada para gestão de atletas e eventos
 ---
 
 <div align="center">
- <img src= "[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrorgc)](https://github.com/anuraghazra/github-readme-stats)" />
+  <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api?username=pedrorgc&show_icons=true&theme=tokyonight" alt="Estatísticas do GitHub de Pedro" />
+  </a>
 </div>
 
 <br />
