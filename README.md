@@ -69,4 +69,3 @@ O **SportFlow** é uma plataforma centralizada para gestão de atletas e eventos
 
 <br />
 
-> *"Transformando ideias em código, um commit de cada vez."*
