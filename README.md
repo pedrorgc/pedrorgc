@@ -38,17 +38,6 @@ Sou um desenvolvedor Full-Stack focado em criar soluções eficientes e seguras.
 
 ---
 
-### 🏆 Projeto em Destaque: SportFlow
-
-O **SportFlow** é uma plataforma centralizada para gestão de atletas e eventos esportivos.
-
-**Diferenciais Estratégicos:**
-* 🏛️ **Foco em Gestão Pública:** Alinhado com as necessidades de secretarias de esportes e municípios.
-* ⚡ **Atualização em Tempo Real:** Dashboard dinâmico para acompanhamento de competições.
-* 🔍 **Auditoria:** Sistema completo de logs e rastreabilidade para garantir a integridade dos dados.
-
----
-
 ### 📫 Como me encontrar
 
 <div align="left">
