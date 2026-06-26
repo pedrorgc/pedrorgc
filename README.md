@@ -6,7 +6,7 @@
 
 Sou um desenvolvedor Full-Stack focado em criar soluções eficientes e seguras. Atualmente, estou cursando o último ano de Análise e Desenvolvimento de Sistemas e desenvolvendo o **SportFlow**, um sistema de gestão esportiva voltado para o setor público que utiliza tecnologia para trazer transparência e agilidade.
 
-- 🎓 Graduando em Tecnologia (TCC em desenvolvimento: **SportFlow**)
+- 🎓 Graduando no Curso De Análise e Desenvolvimento de Sistemas
 - 🐧 Entusiasta de Linux (Ubuntu) e infraestrutura.
 - 🏗️ Especialista em arquitetura MVC e sistemas escaláveis.
 
