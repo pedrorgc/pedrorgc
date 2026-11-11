@@ -1,7 +1,5 @@
 # Olá, eu sou Pedro Ricarth! 👋
 
----
-
 ### 🚀 Sobre Mim
 
 Sou um desenvolvedor Full-Stack focado em criar soluções eficientes e seguras. Atualmente, estou cursando o último ano de Análise e Desenvolvimento de Sistemas e desenvolvendo o **SportFlow**, um sistema de gestão esportiva voltado para o setor público que utiliza tecnologia para trazer transparência e agilidade.
